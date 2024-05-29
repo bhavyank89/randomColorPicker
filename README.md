@@ -6,7 +6,7 @@ Welcome to the Random Color Generator project! This web application generates ra
 
 ## Features
 - Generate random colors with a single click
-- Display the hex code of the generated color
+- Display the rgb code of the generated color
 - User-friendly interface
 
 ## Demo
